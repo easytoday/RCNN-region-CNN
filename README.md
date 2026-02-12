@@ -1,2 +1,2 @@
 # RCNN-region-CNN
-d’implémentation de  l’algorithme R-CNN
+implémentation de  l’algorithme R-CNN
