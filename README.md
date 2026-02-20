@@ -1,4 +1,6 @@
 # RCNN-region-CNN
+This is an implementation of the R-CNN (Regions with Convolutional) algorithm Neural Networks) for object detection, based on the article "Rich feature hierarchies for accurate object detection and semantic segmentation".
+
 implémentation de  l’algorithme R-CNN
 
 
